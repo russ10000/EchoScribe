@@ -1,0 +1,7 @@
+{
+  "name": "Transcribe audio and text to most Common languages",
+  "description": "A fast, free, and accurate audio transcription tool powered by Gemini AI. Record your voice and get instant text.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
